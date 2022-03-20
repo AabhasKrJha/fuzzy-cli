@@ -23,9 +23,9 @@ A command line application for setting up basic environments for projects
 $ setupCLI
 ```
 
-`setupCLI <project name>`
+`setupCLI project <project name>`
 
 ```bash
-$ setupCLI 'project X'
+$ setupCLI project 'project X'
 ```
 
